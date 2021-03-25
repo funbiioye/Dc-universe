@@ -1,1 +1,1 @@
-# This is a repository about Dc-universe comic characters
+# This is a repository about Dc-universe comic characters.
